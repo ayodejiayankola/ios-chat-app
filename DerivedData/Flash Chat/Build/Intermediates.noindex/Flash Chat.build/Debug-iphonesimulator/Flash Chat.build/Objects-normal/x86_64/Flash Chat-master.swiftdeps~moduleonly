@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "501eb7e6be1fb3dd3a37894afa8b93ee"
+build_time: [1612786429, 550517000]
+inputs:
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/Flash-Chat-iOS12/Flash Chat/WelcomeViewController.swift": [1612786324, 567728158]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/Flash-Chat-iOS12/Flash Chat/Message.swift": [1612786324, 566799810]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/Flash-Chat-iOS12/Flash Chat/CustomMessageCell.swift": [1612786324, 385547526]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/Flash-Chat-iOS12/Flash Chat/RegisterViewController.swift": [1612786324, 567426117]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/Flash-Chat-iOS12/Flash Chat/LogInViewController.swift": [1612786324, 566028688]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/Flash-Chat-iOS12/Flash Chat/AppDelegate.swift": [1612786324, 384673798]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/Flash-Chat-iOS12/Flash Chat/ChatViewController.swift": [1612786324, 384918581]
