@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>C35WAJESWR.com.YourName.Flash-Chat</string>
+	<string>C35WAJESWR.com.ayodejiayankola.chatify</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>C35WAJESWR.com.YourName.Flash-Chat</string>
+		<string>C35WAJESWR.com.ayodejiayankola.chatify</string>
 	</array>
 </dict>
 </plist>
