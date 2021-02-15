@@ -1,0 +1,539 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RegisterViewController"
+provides-nominal:
+- "10Flash_Chat22RegisterViewControllerC"
+provides-member:
+- ["10Flash_Chat22RegisterViewControllerC", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "emailTextfield"
+- "passwordTextfield"
+- "registerPressed"
+- "viewDidLoad"
+depends-top-level:
+- "!="
+- "AnyObject"
+- !private "Auth"
+- "RegisterViewController"
+- "StringLiteralType"
+- "UITextField"
+- "UIViewController"
+- !private "emailTextfield"
+- !private "passwordTextfield"
+- "print"
+depends-member:
+- !private ["So7FIRAuthC", "auth"]
+- !private ["So7FIRAuthC", "createUser"]
+- ["SK", ""]
+- !private ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "Auth"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "auth"]
+- !private ["s7CVarArgP", "createUser"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "emailTextfield"]
+- !private ["s7CVarArgP", "passwordTextfield"]
+- !private ["s7CVarArgP", "performSegue"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "registerPressed"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["Sl", ""]
+- ["SL", ""]
+- !private ["s28CustomDebugStringConvertibleP", "Auth"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "auth"]
+- !private ["s28CustomDebugStringConvertibleP", "createUser"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "emailTextfield"]
+- !private ["s28CustomDebugStringConvertibleP", "passwordTextfield"]
+- !private ["s28CustomDebugStringConvertibleP", "performSegue"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "registerPressed"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "Auth"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "auth"]
+- !private ["s23CustomStringConvertibleP", "createUser"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "emailTextfield"]
+- !private ["s23CustomStringConvertibleP", "passwordTextfield"]
+- !private ["s23CustomStringConvertibleP", "performSegue"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "registerPressed"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "text"]
+- !private ["SE", "text"]
+- !private ["SQ", "Auth"]
+- ["SQ", ""]
+- !private ["SQ", "auth"]
+- !private ["SQ", "createUser"]
+- !private ["SQ", "didReceiveMemoryWarning"]
+- !private ["SQ", "emailTextfield"]
+- !private ["SQ", "passwordTextfield"]
+- !private ["SQ", "performSegue"]
+- !private ["SQ", "print"]
+- !private ["SQ", "registerPressed"]
+- !private ["SQ", "text"]
+- !private ["SQ", "viewDidLoad"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s23ExpressibleByNilLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["SH", "Auth"]
+- ["SH", ""]
+- !private ["SH", "auth"]
+- !private ["SH", "createUser"]
+- !private ["SH", "didReceiveMemoryWarning"]
+- !private ["SH", "emailTextfield"]
+- !private ["SH", "passwordTextfield"]
+- !private ["SH", "performSegue"]
+- !private ["SH", "print"]
+- !private ["SH", "registerPressed"]
+- !private ["SH", "text"]
+- !private ["SH", "viewDidLoad"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["So8NSCodingP", "AnyObject"]
+- !private ["So8NSCodingP", "Auth"]
+- ["So8NSCodingP", "UITextField"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "didReceiveMemoryWarning"]
+- ["So8NSCodingP", "emailTextfield"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "passwordTextfield"]
+- !private ["So8NSCodingP", "performSegue"]
+- !private ["So8NSCodingP", "print"]
+- ["So8NSCodingP", "registerPressed"]
+- !private ["So8NSCodingP", "text"]
+- ["So8NSCodingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", "AnyObject"]
+- !private ["So26NSExtensionRequestHandlingP", "Auth"]
+- ["So26NSExtensionRequestHandlingP", "UITextField"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- ["So26NSExtensionRequestHandlingP", "emailTextfield"]
+- ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "passwordTextfield"]
+- !private ["So26NSExtensionRequestHandlingP", "performSegue"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- ["So26NSExtensionRequestHandlingP", "registerPressed"]
+- ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "AnyObject"]
+- !private ["So8NSObjectC", "Auth"]
+- ["So8NSObjectC", "UITextField"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "auth"]
+- !private ["So8NSObjectC", "authWithApp"]
+- !private ["So8NSObjectC", "createUser"]
+- !private ["So8NSObjectC", "createUserWithEmail"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "emailTextfield"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "passwordTextfield"]
+- !private ["So8NSObjectC", "performSegue"]
+- !private ["So8NSObjectC", "performSegueWithIdentifier"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "registerPressed"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectP", "AnyObject"]
+- !private ["So8NSObjectP", "Auth"]
+- ["So8NSObjectP", "UITextField"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "auth"]
+- !private ["So8NSObjectP", "authWithApp"]
+- !private ["So8NSObjectP", "createUser"]
+- !private ["So8NSObjectP", "createUserWithEmail"]
+- ["So8NSObjectP", "didReceiveMemoryWarning"]
+- ["So8NSObjectP", "emailTextfield"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "passwordTextfield"]
+- !private ["So8NSObjectP", "performSegue"]
+- !private ["So8NSObjectP", "performSegueWithIdentifier"]
+- !private ["So8NSObjectP", "print"]
+- ["So8NSObjectP", "registerPressed"]
+- !private ["So8NSObjectP", "text"]
+- ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sq", "text"]
+- ["10Flash_Chat22RegisterViewControllerC", "AnyObject"]
+- !private ["10Flash_Chat22RegisterViewControllerC", "Auth"]
+- ["10Flash_Chat22RegisterViewControllerC", "UITextField"]
+- ["10Flash_Chat22RegisterViewControllerC", ""]
+- ["10Flash_Chat22RegisterViewControllerC", "deinit"]
+- ["10Flash_Chat22RegisterViewControllerC", "didReceiveMemoryWarning"]
+- ["10Flash_Chat22RegisterViewControllerC", "emailTextfield"]
+- ["10Flash_Chat22RegisterViewControllerC", "init"]
+- ["10Flash_Chat22RegisterViewControllerC", "passwordTextfield"]
+- !private ["10Flash_Chat22RegisterViewControllerC", "performSegue"]
+- !private ["10Flash_Chat22RegisterViewControllerC", "print"]
+- ["10Flash_Chat22RegisterViewControllerC", "registerPressed"]
+- ["10Flash_Chat22RegisterViewControllerC", "viewDidLoad"]
+- ["ST", ""]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- !private ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "text"]
+- ["So21UIAppearanceContainerP", "AnyObject"]
+- !private ["So21UIAppearanceContainerP", "Auth"]
+- ["So21UIAppearanceContainerP", "UITextField"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- ["So21UIAppearanceContainerP", "emailTextfield"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "passwordTextfield"]
+- !private ["So21UIAppearanceContainerP", "performSegue"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- ["So21UIAppearanceContainerP", "registerPressed"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", "AnyObject"]
+- !private ["So18UIContentContainerP", "Auth"]
+- ["So18UIContentContainerP", "UITextField"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- ["So18UIContentContainerP", "emailTextfield"]
+- ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "passwordTextfield"]
+- !private ["So18UIContentContainerP", "performSegue"]
+- !private ["So18UIContentContainerP", "print"]
+- ["So18UIContentContainerP", "registerPressed"]
+- ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So32UIContextMenuInteractionDelegateP", ""]
+- !private ["So32UIContextMenuInteractionDelegateP", "text"]
+- ["So9UIControlC", ""]
+- !private ["So9UIControlC", "text"]
+- !private ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "text"]
+- ["So18UIFocusEnvironmentP", "AnyObject"]
+- !private ["So18UIFocusEnvironmentP", "Auth"]
+- ["So18UIFocusEnvironmentP", "UITextField"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- ["So18UIFocusEnvironmentP", "emailTextfield"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "passwordTextfield"]
+- !private ["So18UIFocusEnvironmentP", "performSegue"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- ["So18UIFocusEnvironmentP", "registerPressed"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "text"]
+- ["So10UIKeyInputP", ""]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- ["So30UIPasteConfigurationSupportingP", "AnyObject"]
+- !private ["So30UIPasteConfigurationSupportingP", "Auth"]
+- ["So30UIPasteConfigurationSupportingP", "UITextField"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- ["So30UIPasteConfigurationSupportingP", "emailTextfield"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "passwordTextfield"]
+- !private ["So30UIPasteConfigurationSupportingP", "performSegue"]
+- !private ["So30UIPasteConfigurationSupportingP", "performSegueWithIdentifier"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- ["So30UIPasteConfigurationSupportingP", "registerPressed"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "AnyObject"]
+- !private ["So11UIResponderC", "Auth"]
+- ["So11UIResponderC", "UITextField"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "emailTextfield"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "passwordTextfield"]
+- !private ["So11UIResponderC", "performSegue"]
+- !private ["So11UIResponderC", "performSegueWithIdentifier"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "registerPressed"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "AnyObject"]
+- !private ["So30UIResponderStandardEditActionsP", "Auth"]
+- ["So30UIResponderStandardEditActionsP", "UITextField"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- ["So30UIResponderStandardEditActionsP", "emailTextfield"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "passwordTextfield"]
+- !private ["So30UIResponderStandardEditActionsP", "performSegue"]
+- !private ["So30UIResponderStandardEditActionsP", "performSegueWithIdentifier"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- ["So30UIResponderStandardEditActionsP", "registerPressed"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So16UIStateRestoringP", "AnyObject"]
+- !private ["So16UIStateRestoringP", "Auth"]
+- ["So16UIStateRestoringP", "UITextField"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- ["So16UIStateRestoringP", "emailTextfield"]
+- ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "passwordTextfield"]
+- !private ["So16UIStateRestoringP", "performSegue"]
+- !private ["So16UIStateRestoringP", "print"]
+- ["So16UIStateRestoringP", "registerPressed"]
+- ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextFieldC", "text"]
+- !private ["So11UITextInputP", ""]
+- !private ["So11UITextInputP", "text"]
+- ["So17UITextInputTraitsP", ""]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", ""]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- ["So18UITraitEnvironmentP", "AnyObject"]
+- !private ["So18UITraitEnvironmentP", "Auth"]
+- ["So18UITraitEnvironmentP", "UITextField"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- ["So18UITraitEnvironmentP", "emailTextfield"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "passwordTextfield"]
+- !private ["So18UITraitEnvironmentP", "performSegue"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- ["So18UITraitEnvironmentP", "registerPressed"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", "AnyObject"]
+- !private ["So23UIUserActivityRestoringP", "Auth"]
+- ["So23UIUserActivityRestoringP", "UITextField"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "didReceiveMemoryWarning"]
+- ["So23UIUserActivityRestoringP", "emailTextfield"]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "passwordTextfield"]
+- !private ["So23UIUserActivityRestoringP", "performSegue"]
+- !private ["So23UIUserActivityRestoringP", "performSegueWithIdentifier"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- ["So23UIUserActivityRestoringP", "registerPressed"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "AnyObject"]
+- !private ["So16UIViewControllerC", "Auth"]
+- ["So16UIViewControllerC", "UITextField"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "emailTextfield"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "passwordTextfield"]
+- !private ["So16UIViewControllerC", "performSegue"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "registerPressed"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Auth"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "auth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "createUser"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "emailTextfield"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "passwordTextfield"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "performSegue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "registerPressed"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Auth"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "auth"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "createUser"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "emailTextfield"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "passwordTextfield"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "performSegue"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "print"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "registerPressed"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "So7FIRAuthC"
+- "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- "10Flash_Chat22RegisterViewControllerC"
+- "ST"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So32UIContextMenuInteractionDelegateP"
+- "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- "So10UIKeyInputP"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- !private "So11UITextInputP"
+- "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-umbrella.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase-umbrella.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth-umbrella.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FirebaseInstallations-umbrella.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthCredential.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRVersion.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorSession.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorAssertion.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorAssertion.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorInfo.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorInfo.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFederatedAuthProvider.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGameCenterAuthProvider.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorResolver.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorGenerator.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactor.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthSettings.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FIRInstallations.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FirebaseInstallations.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FIRInstallationsErrors.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthTokenResult.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FIRInstallationsAuthTokenResult.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Headers/FIRAnalytics+Consent.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/DerivedData/Flash Chat/Build/Products/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "93c9a5fef470356dcf19e472f3e6c704"

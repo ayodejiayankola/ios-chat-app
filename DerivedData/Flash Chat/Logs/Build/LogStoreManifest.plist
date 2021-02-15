@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>32783769-B62B-4DDD-BBAA-933B28DCDFAF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32783769-B62B-4DDD-BBAA-933B28DCDFAF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flash Chat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flash Chat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Flash Chat</string>
+			<key>timeStartedRecording</key>
+			<real>634750376.45048106</real>
+			<key>timeStoppedRecording</key>
+			<real>634750380.31732798</real>
+			<key>title</key>
+			<string>Build Flash Chat</string>
+			<key>uniqueIdentifier</key>
+			<string>32783769-B62B-4DDD-BBAA-933B28DCDFAF</string>
+		</dict>
+		<key>5E3B6492-AA33-4D48-A053-3466F6BB59FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5E3B6492-AA33-4D48-A053-3466F6BB59FF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flash Chat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flash Chat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Flash Chat</string>
+			<key>timeStartedRecording</key>
+			<real>635075272.34060299</real>
+			<key>timeStoppedRecording</key>
+			<real>635075279.43354905</real>
+			<key>title</key>
+			<string>Build Flash Chat</string>
+			<key>uniqueIdentifier</key>
+			<string>5E3B6492-AA33-4D48-A053-3466F6BB59FF</string>
+		</dict>
+		<key>89DDDA4B-C538-414C-B87F-1012CC4BD948</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>89DDDA4B-C538-414C-B87F-1012CC4BD948.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flash Chat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flash Chat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean Flash Chat</string>
+			<key>timeStartedRecording</key>
+			<real>635074161.64861703</real>
+			<key>timeStoppedRecording</key>
+			<real>635074161.997697</real>
+			<key>title</key>
+			<string>Clean Flash Chat</string>
+			<key>uniqueIdentifier</key>
+			<string>89DDDA4B-C538-414C-B87F-1012CC4BD948</string>
+		</dict>
+		<key>9726B3EA-099B-42F7-BA4E-B9C74A3CA485</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9726B3EA-099B-42F7-BA4E-B9C74A3CA485.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flash Chat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flash Chat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Flash Chat</string>
+			<key>timeStartedRecording</key>
+			<real>635074162.40174103</real>
+			<key>timeStoppedRecording</key>
+			<real>635074205.99449897</real>
+			<key>title</key>
+			<string>Build Flash Chat</string>
+			<key>uniqueIdentifier</key>
+			<string>9726B3EA-099B-42F7-BA4E-B9C74A3CA485</string>
+		</dict>
+		<key>C88B7F1A-B5C2-479C-A981-2CC324CB92B1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C88B7F1A-B5C2-479C-A981-2CC324CB92B1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flash Chat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flash Chat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Flash Chat</string>
+			<key>timeStartedRecording</key>
+			<real>635074208.750386</real>
+			<key>timeStoppedRecording</key>
+			<real>635074210.38999104</real>
+			<key>title</key>
+			<string>Build Flash Chat</string>
+			<key>uniqueIdentifier</key>
+			<string>C88B7F1A-B5C2-479C-A981-2CC324CB92B1</string>
+		</dict>
+		<key>E8A6A3C8-E178-4493-AA73-188B3CCEAEE0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8A6A3C8-E178-4493-AA73-188B3CCEAEE0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flash Chat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flash Chat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Flash Chat</string>
+			<key>timeStartedRecording</key>
+			<real>635077491.62276101</real>
+			<key>timeStoppedRecording</key>
+			<real>635077498.54154599</real>
+			<key>title</key>
+			<string>Build Flash Chat</string>
+			<key>uniqueIdentifier</key>
+			<string>E8A6A3C8-E178-4493-AA73-188B3CCEAEE0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
