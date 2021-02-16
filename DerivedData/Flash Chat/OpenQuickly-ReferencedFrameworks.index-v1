@@ -10,8 +10,8 @@
 	<string>SafariServices</string>
 	<string>objc</string>
 	<string>FirebaseInstallations</string>
-	<string>GoogleUtilities</string>
 	<string>FirebaseAuth</string>
+	<string>GoogleUtilities</string>
 	<string>Firebase</string>
 	<string>GoogleDataTransport</string>
 	<string>FirebaseInAppMessaging</string>
@@ -36,20 +36,20 @@
 	<string>FirebaseMLVision</string>
 	<string>WatchKit</string>
 	<string>Foundation</string>
-	<string>QuartzCore</string>
-	<string>Security</string>
 	<string>Fabric</string>
-	<string>AppKit</string>
 	<string>FirebaseMLModelInterpreter</string>
+	<string>Security</string>
+	<string>AppKit</string>
 	<string>GameKit</string>
+	<string>QuartzCore</string>
 	<string>netinet</string>
 	<string>FirebaseStorage</string>
 	<string>SystemConfiguration</string>
-	<string>CoreGraphics</string>
+	<string>FirebaseFunctions</string>
 	<string>FirebaseAnalytics</string>
 	<string>GTMSessionFetcherCore</string>
 	<string>FirebaseAppDistribution</string>
 	<string>UIKit</string>
-	<string>FirebaseFunctions</string>
+	<string>CoreGraphics</string>
 </array>
 </plist>

@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>1616A89F-9A3E-4E09-B59D-B112833CC94B</key>
+		<key>86972F5A-306E-4318-B545-EDC5295CE5B8</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1616A89F-9A3E-4E09-B59D-B112833CC94B.xcactivitylog</string>
+			<string>86972F5A-306E-4318-B545-EDC5295CE5B8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Run Flash Chat</string>
 			<key>timeStartedRecording</key>
-			<real>635074210.40745795</real>
+			<real>635169005.13519704</real>
 			<key>timeStoppedRecording</key>
-			<real>635075272.38334894</real>
+			<real>635169348.23351097</real>
 			<key>title</key>
 			<string>Run Flash Chat</string>
 			<key>uniqueIdentifier</key>
-			<string>1616A89F-9A3E-4E09-B59D-B112833CC94B</string>
+			<string>86972F5A-306E-4318-B545-EDC5295CE5B8</string>
 		</dict>
-		<key>58076893-2C25-4026-ACC7-31C60FE7C5E6</key>
+		<key>C163F36C-C3A7-4863-9B6A-5DBDF5AE78FE</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>58076893-2C25-4026-ACC7-31C60FE7C5E6.xcactivitylog</string>
+			<string>C163F36C-C3A7-4863-9B6A-5DBDF5AE78FE.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Run Flash Chat</string>
 			<key>timeStartedRecording</key>
-			<real>634750380.32203698</real>
+			<real>635167043.37305105</real>
 			<key>timeStoppedRecording</key>
-			<real>634767554.68519902</real>
+			<real>635167098.76283896</real>
 			<key>title</key>
 			<string>Run Flash Chat</string>
 			<key>uniqueIdentifier</key>
-			<string>58076893-2C25-4026-ACC7-31C60FE7C5E6</string>
+			<string>C163F36C-C3A7-4863-9B6A-5DBDF5AE78FE</string>
 		</dict>
-		<key>97D58DA8-4286-4D37-ABBE-73A1E11FA64E</key>
+		<key>CA5BC8A4-B21C-4FB3-BCF7-9E011569BE02</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>97D58DA8-4286-4D37-ABBE-73A1E11FA64E.xcactivitylog</string>
+			<string>CA5BC8A4-B21C-4FB3-BCF7-9E011569BE02.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,13 +100,13 @@
 			<key>signature</key>
 			<string>Run Flash Chat</string>
 			<key>timeStartedRecording</key>
-			<real>635075279.43832195</real>
+			<real>635168900.95268798</real>
 			<key>timeStoppedRecording</key>
-			<real>635076450.19153202</real>
+			<real>635168964.18958795</real>
 			<key>title</key>
 			<string>Run Flash Chat</string>
 			<key>uniqueIdentifier</key>
-			<string>97D58DA8-4286-4D37-ABBE-73A1E11FA64E</string>
+			<string>CA5BC8A4-B21C-4FB3-BCF7-9E011569BE02</string>
 		</dict>
 	</dict>
 </dict>
