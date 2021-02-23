@@ -4,14 +4,14 @@
 <array>
 	<string>GoogleMobileAds</string>
 	<string>Chameleon</string>
-	<string>FirebasePerformance</string>
 	<string>CommonCrypto</string>
-	<string>FirebaseDynamicLinks</string>
+	<string>FirebasePerformance</string>
 	<string>SafariServices</string>
+	<string>FirebaseDynamicLinks</string>
 	<string>objc</string>
 	<string>FirebaseInstallations</string>
-	<string>FirebaseAuth</string>
 	<string>GoogleUtilities</string>
+	<string>FirebaseAuth</string>
 	<string>Firebase</string>
 	<string>GoogleDataTransport</string>
 	<string>FirebaseInAppMessaging</string>
@@ -36,20 +36,20 @@
 	<string>FirebaseMLVision</string>
 	<string>WatchKit</string>
 	<string>Foundation</string>
-	<string>Fabric</string>
-	<string>FirebaseMLModelInterpreter</string>
+	<string>QuartzCore</string>
 	<string>Security</string>
+	<string>Fabric</string>
 	<string>AppKit</string>
 	<string>GameKit</string>
-	<string>QuartzCore</string>
+	<string>FirebaseMLModelInterpreter</string>
 	<string>netinet</string>
 	<string>FirebaseStorage</string>
 	<string>SystemConfiguration</string>
-	<string>FirebaseFunctions</string>
+	<string>CoreGraphics</string>
 	<string>FirebaseAnalytics</string>
 	<string>GTMSessionFetcherCore</string>
 	<string>FirebaseAppDistribution</string>
 	<string>UIKit</string>
-	<string>CoreGraphics</string>
+	<string>FirebaseFunctions</string>
 </array>
 </plist>

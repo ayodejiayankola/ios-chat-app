@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "782a740ae6c28f88398bdcef57719e52"
+build_time: [1614079992, 150845000]
+inputs:
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/Flash Chat/WelcomeViewController.swift": [1612953697, 341311386]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/Flash Chat/Message.swift": [1613484690, 153372747]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/Flash Chat/CustomMessageCell.swift": [1612953697, 97438866]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/Flash Chat/RegisterViewController.swift": [1613057576, 441370272]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/Flash Chat/LogInViewController.swift": [1613384691, 586401046]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/Flash Chat/AppDelegate.swift": [1613048349, 638303148]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/flashify/ios-chat-app/Flash Chat/ChatViewController.swift": [1614079991, 872166663]
